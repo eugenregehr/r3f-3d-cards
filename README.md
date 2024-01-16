@@ -1,8 +1,7 @@
 # 3D Flip Cards with WebGL
-This little project is build with React, Typescript, R3F and TailwindCss.
+This project is built using React, TypeScript, R3F (React Three Fiber), and Tailwind CSS.
 
 ## Config
-The app has a breakpoint listener for mobile, tablet and Desktop.
-You can edit the initial State for each breakpoint in `src/lib/initialState.ts`
+The app includes a breakpoint listener for mobile, tablet, and desktop devices. You can customize the initial state for each breakpoint in the `src/lib/initialState.ts` file.
 
-Feel free to use and adapt it as you wish! :)
+Feel free to use and modify it as you wish! :)
